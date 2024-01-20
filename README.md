@@ -22,6 +22,6 @@
 |W11 - 04/15, 04/17 | Generative Inference Optimization & Speculative Decoding |
 | W12 - 04/22, 04/24 | Prompt Engineering Overview & Practices |
 | W13 - 04/29 | Parameter Efficient Fine-tuning (LoRA)|
-|W14 - 05/06, 05/08 | Guest Speech (TBD) & Final Eaxme Review |
+|W14 - 05/06, 05/08 | Guest Speech (TBD) & Final Exam Review |
 
 
