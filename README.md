@@ -9,8 +9,8 @@
 
 | Date | Topic |
 |-----|------|
-|W1 01/31 | Introduction and Logistics|
-|W2 02/05, 02/07| Machine Learning Preliminary & PyTorch Tensors|
+|W1 - 01/31 | Introduction and Logistics|
+|W2 - 02/05, 02/07| Machine Learning Preliminary & PyTorch Tensors|
 |W3 - 02/14| Stochastic Gradient Descent|
 |W4 - 02/19, 02/21 | Auto-Differentiation & PyTorch Autograd|
 |W5 - 02/26, 02/28 |Nvidia GPU Performance & Collective Communication Library|
@@ -20,8 +20,8 @@
 |W9 – 03/25, 03/27|Mid-Term Review & Mid-Term Exam|
 |W10 - 04/08, 04/10| Generative Inference Workflow & Hugging Face Library|
 |W11 - 04/15, 04/17 | Generative Inference Optimization & Speculative Decoding |
-| W12 - 04/22, 04/24 | Prompt Engineering Overview & Practices |
-| W13 - 04/29 | Parameter Efficient Fine-tuning (LoRA)|
+|W12 - 04/22, 04/24 | Prompt Engineering Overview & Practices |
+|W13 - 04/29 | Parameter Efficient Fine-tuning (LoRA)|
 |W14 - 05/06, 05/08 | Guest Speech (TBD) & Final Exam Review |
 
 
