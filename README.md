@@ -5,6 +5,18 @@
 # COMP4901Y 2024 Spring 
 </div>
 
+**Lecturer**: [Binhang Yuan](https://binhangyuan.github.io/site/). 
+
+**Teaching Assistant**: Ran Yan, Xinyang Huang.
+
+
+## Overview
+
+In recent years, foundation models have fundamentally revolutionized the state-of-the-art of artificial intelligence. Thus, the computation in the training or inference of the foundation model could be one of the most important workflows running on top of modern computer systems. This course unravels the secrets of the efficient deployment of such workflows from the system perspective. Specifically, we will i) explain how a modern machine learning system (i.e., PyTorch) works; ii) understand the performance bottleneck of machine learning computation over modern hardware (e.g., Nvidia GPUs); iii) discuss four main parallel strategies in foundation model training (data-, pipeline-, tensor model-, optimizer- parallelism); and iv) real-world deployment of foundation model including efficient inference and fine-tuning. 
+
+
+
+
 ## Syllabus 
 
 | Date | Topic |
@@ -23,5 +35,12 @@
 |W12 - 04/22, 04/24 | Prompt Engineering Overview & Practices |
 |W13 - 04/29 | Parameter Efficient Fine-tuning (LoRA)|
 |W14 - 05/06, 05/08 | Guest Speech (TBD) & Final Exam Review |
+
+
+## Grading Policy
+- 4 Homework (4 $\times$ 5% $=$ 20%);
+- Mid-term exam (30%);
+- Final exam (50%).
+
 
 
