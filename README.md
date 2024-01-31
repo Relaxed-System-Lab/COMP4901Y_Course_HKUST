@@ -21,7 +21,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 
 | Date | Topic |
 |-----|------|
-|W1 - 01/31 | Introduction and Logistics|
+|W1 - 01/31 | Introduction and Logistics [Slides](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)|
 |W2 - 02/05, 02/07| Machine Learning Preliminary & PyTorch Tensors|
 |W3 - 02/14| Stochastic Gradient Descent|
 |W4 - 02/19, 02/21 | Auto-Differentiation & PyTorch Autograd|
