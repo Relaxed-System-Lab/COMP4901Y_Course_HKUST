@@ -22,8 +22,8 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | Date | Topic |
 |-----|------|
 |W1 - 01/31 | Introduction and Logistics [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)|
-|W2 - 02/05, 02/07| Machine Learning Preliminary & PyTorch Tensors|
-|W3 - 02/14| Stochastic Gradient Descent|
+|W2 - 02/05, 02/07| Machine Learning Preliminary & PyTorch Tensors [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%202%20-%20Machine%20Learning%20Preliminary.pdf)|
+|W3 - 02/14| Stochastic Gradient Descent [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%203%20-%20Stochastic%20Gradient%20Descent.pdf) |
 |W4 - 02/19, 02/21 | Auto-Differentiation & PyTorch Autograd|
 |W5 - 02/26, 02/28 | Nvidia GPU Performance & Collective Communication Library|
 |W6 - 03/04, 03/06| Transformer Architecture & Large Scale Pretrain Overview|
