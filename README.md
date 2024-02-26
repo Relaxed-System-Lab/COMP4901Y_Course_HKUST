@@ -25,7 +25,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W2 - 02/05, 02/07| Machine Learning Preliminary & PyTorch Tensors [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%202%20-%20Machine%20Learning%20Preliminary.pdf)|
 |W3 - 02/14| Stochastic Gradient Descent [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%203%20-%20Stochastic%20Gradient%20Descent.pdf) |
 |W4 - 02/19, 02/21 | Automatic Differentiation & PyTorch Autograd [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%204%20-%20Automatic%20Differentiation.pdf) |
-|W5 - 02/26, 02/28 | Nvidia GPU Performance & Collective Communication Library|
+|W5 - 02/26, 02/28 | Nvidia GPU Performance [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%205%20-%20Nvidia%20GPU%20Performance.pdf) & Collective Communication Library|
 |W6 - 03/04, 03/06| Transformer Architecture & Large Scale Pretrain Overview|
 |W7 - 03/11, 03/13| Data Parallel Training & Pipeline Parallel Training|
 |W8 - 03/18, 03/20| Tensor Model Parallel Training & Optimizer Parallel Training|
@@ -41,6 +41,14 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 - 4 Homework (4 $\times$ 5% $=$ 20%);
 - Mid-term exam (30%);
 - Final exam (50%).
+
+## Home 
+| Topic | Release |   Due   |
+|-------|---------|---------|
+|[[Homework1]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/tree/main/Homework1)|2024-02-26 :heavy_check_mark:| 2024-03-18|
+| Homework2 |2024-03-20| 2024-04-08|
+| Homework3 |2024-04-10| 2024-04-24|
+| Homework4 |2024-04-26| 2024-05-10|
 
 
 
