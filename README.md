@@ -42,7 +42,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 - Mid-term exam (30%);
 - Final exam (50%).
 
-## Home 
+## Homework 
 | Topic | Release |   Due   |
 |-------|---------|---------|
 |[[Homework1]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/tree/main/Homework1)|2024-02-26 :heavy_check_mark:| 2024-03-18|
