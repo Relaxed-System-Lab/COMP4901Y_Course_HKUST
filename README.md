@@ -26,7 +26,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W3 - 02/14| Stochastic Gradient Descent [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%203%20-%20Stochastic%20Gradient%20Descent.pdf) |
 |W4 - 02/19, 02/21 | Automatic Differentiation & PyTorch Autograd [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%204%20-%20Automatic%20Differentiation.pdf) |
 |W5 - 02/26, 02/28 | Nvidia GPU Performance [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%205%20-%20Nvidia%20GPU%20Performance.pdf) & Collective Communication Library [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%206%20-%20Nvidia%20Collective%20Communication%20Library.pdf)|
-|W6 - 03/04, 03/06| Transformer Architecture [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%207%20-%20Transformer%20Architecture.pdf) & Large Scale Pretrain Overview|
+|W6 - 03/04, 03/06| Transformer Architecture [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%207%20-%20Transformer%20Architecture.pdf) & Large Scale Pretrain Overview [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%208%20-%20Large%20Scale%20Pretrain%20Overview.pdf)|
 |W7 - 03/11, 03/13| Data Parallel Training & Pipeline Parallel Training|
 |W8 - 03/18, 03/20| Tensor Model Parallel Training & Optimizer Parallel Training|
 |W9 – 03/25, 03/27| Mid-Term Review & Mid-Term Exam|
