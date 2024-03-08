@@ -6,7 +6,7 @@
 
 </div>
 
-<h1 style="text-align: center;"> Large-Scale Machine Learning for Foundation Models </h1>
+<h2 style="text-align: center;"> Large-Scale Machine Learning for Foundation Models </h2>
 
 **Lecturer**: [Binhang Yuan](https://binhangyuan.github.io/site/). 
 
