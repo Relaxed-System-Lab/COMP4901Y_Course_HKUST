@@ -2,8 +2,11 @@
 <a href="https://hkust.edu.hk/"><img src="https://hkust.edu.hk/sites/default/files/images/UST_L3.svg" height="45"></a>
 
 
-# COMP4901Y 2024 Spring 
+# COMP4901Y 2024 Spring
+
 </div>
+
+<h1 style="text-align: center;"> Large-Scale Machine Learning for Foundation Models </h1>
 
 **Lecturer**: [Binhang Yuan](https://binhangyuan.github.io/site/). 
 
