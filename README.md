@@ -33,7 +33,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W7 - 03/11, 03/13| Data Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%209%20-%20Data%20Parallel%20Training.pdf) & Pipeline Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2010%20-%20Pipeline%20Parallel%20Training.pdf)|
 |W8 - 03/18, 03/20| Tensor Model Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2011%20-%20Tensor%20Model%20Parallel%20Training.pdf) & Optimizer Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2012%20-%20Optimizer%20Parallel%20Training.pdf)|
 |W9 – 03/25, 03/27| Mid-Term Review [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2013%20-%20Midterm%20Review.pdf) & Mid-Term Exam|
-|W10 - 04/08, 04/10| Generative Inference Workflow & Hugging Face Library|
+|W10 - 04/08, 04/10| Generative Inference [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2014%20-%20Generative%20Inference.pdf) & Hugging Face Library|
 |W11 - 04/15, 04/17 | Generative Inference Optimization & Speculative Decoding |
 |W12 - 04/22, 04/24 | Prompt Engineering Overview & Practices |
 |W13 - 04/29 | Parameter Efficient Fine-tuning (LoRA)|
