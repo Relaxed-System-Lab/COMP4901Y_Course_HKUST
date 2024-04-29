@@ -36,7 +36,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W10 - 04/08, 04/10| Generative Inference [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2014%20-%20Generative%20Inference.pdf) & Hugging Face Library [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2015%20-%20Hugging%20Face%20Transformers%20Inference%20API.pdf)|
 |W11 - 04/15, 04/17 | Generative Inference Optimization [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2016%20-%20Generative%20Inference%20Optimization.pdf) & Speculative Decoding [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2017%20-%20Speculative%20Decoding.pdf)|
 |W12 - 04/22, 04/24 | Prompt Engineering [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2018%20-%20Prompt%20Engineering.pdf) |
-|W13 - 04/29 | Parameter Efficient Fine-tuning (LoRA)|
+|W13 - 04/29 | Parameter Efficient Fine-Tuning [[Slides]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/blob/main/Slides/Lecture%2019%20-%20Parameter%20Efficient%20Fine-Tuning.pdf) |
 |W14 - 05/06, 05/08 | Guest Speech (TBD) & Final Exam Review |
 
 
