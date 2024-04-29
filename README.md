@@ -50,8 +50,8 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |-------|---------|---------|
 |[[Homework1]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/tree/main/Homework1)|2024-02-26 :heavy_check_mark:| 2024-03-18 :heavy_check_mark:|
 |[[Homework2]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/tree/main/Homework2)|2024-03-20 :heavy_check_mark:| 2024-04-08 :heavy_check_mark:|
-|[[Homework3]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/tree/main/Homework3)|2024-04-11 :heavy_check_mark:| 2024-04-25|
-| Homework4 |2024-04-26| 2024-05-10|
+|[[Homework3]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/tree/main/Homework3)|2024-04-11 :heavy_check_mark:| 2024-04-25 :heavy_check_mark:|
+|[[Homework4]](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST/tree/main/Homework4)|2024-04-26 :heavy_check_mark:| 2024-05-10|
 
 
 
